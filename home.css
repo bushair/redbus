@@ -1,0 +1,34 @@
+
+.header
+{
+	background-color:#3A5795;
+}
+.space
+{padding-top:15px;
+color:#FFF
+}
+a
+{
+	color:#8CA6BB
+}
+.textbox
+{
+	height:9px;
+}
+textarea
+{
+	line-height:10px
+}
+.button
+{
+	background-color: #8CA6BB;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+	padding-top:30px;
+	
+}

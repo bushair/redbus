@@ -1,0 +1,99 @@
+@charset "utf-8";
+/* CSS Document */
+
+.m1-header
+{
+	background:#C00;
+	size:landscape;
+}
+.topheader
+{
+	background-color:#F4F4F4;
+	height: 36px;
+}
+.seconheader
+{
+	background-color:#D84E55;
+	height: 90px;
+	
+}
+.menu 
+{
+	padding-top:17px;
+	
+}
+.menu a
+{
+	padding:0,15px;
+	color:#FFF;
+	
+}
+.logo
+{
+	padding-top:7px;
+}
+.icon .glyphicon
+{
+	padding-top:10px;
+    font-size: 25px;
+	color: #fff;
+
+}
+.main-container
+
+{
+	min-height:100%;
+    position:relative;
+	padding-top:0,20px;
+}
+.arrow img
+{
+	padding-top:30px;
+}
+.frm div
+{
+	padding-top:35px;
+}
+.wid
+{
+	 width: 150px;
+}
+.rupee div
+{
+	border-top:1px solid #dedede;
+	border-bottom:1px solid #dedede;
+	padding-top:15px;
+	
+}
+.taxi div
+{
+	border-bottom:1px solid #dedede;
+	padding-top:15px;
+}
+.bann div
+{
+	border-bottom:2px solid #dedede;
+	padding-top:25px;
+	padding-bottom:25px;
+}
+.last div
+{
+	border-bottom:1px solid #dedede;
+	padding-top:25px;
+	padding-bottom:25px;
+}
+.services div
+{
+	text-align:center;
+	font-weight: 100;
+    width: 100%;
+    margin: 0 auto;
+    display: inline-block;
+		padding-top:25px;
+}
+.city div
+{
+	background-color:#E8E8E8;
+}
+	
+	
